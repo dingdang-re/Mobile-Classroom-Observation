@@ -1,0 +1,9 @@
+{
+  "name": "智慧课堂互动助手",
+  "description": "基于移动端的课堂互动、督导、教学管理综合平台，支持在线巡课、随堂评教、作业管理及数据统计。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
